@@ -1,7 +1,8 @@
 
 
-// This is Butler.  It matches a tie to your shirt or jacket depending on the energy you want to portray and using tried color principles of fashion.//
-//The user must have access to the console to interact with the program.//
+//  This is Butler.  It matches a tie to your shirt or jacket depending on the energy you want to portray.  //
+//  The user must have access to the console to interact with the program.  //
+//  To use this program, visit: http://htmlpreview.github.io/?https://github.com/drumfiend21/coding-camp-repo/blob/master/butler.html //
 
 
 var energy = prompt("We'll use our complex matching system to pick a tie for you today. What energy do you want to portray? (Enter: '1' for power bold, '2' for conservative', or '3' for mute sophisticated)");
