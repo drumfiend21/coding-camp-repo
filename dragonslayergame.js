@@ -8,7 +8,7 @@
 //  The dice roll value exceeds '4,' the dragon is slain.
 //  Else, the coin flip iteration begins again until the user loses or dice roll damages exceed '4'.
 
-//  To play the game, the user must have the console
+//  To play the game, the user must have the console open.
 
 var slaying = true;
 var youHit = Math.floor(Math.random() * 2); 
