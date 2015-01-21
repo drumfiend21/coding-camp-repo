@@ -24,7 +24,6 @@ var search = function(name){
     for(var key in friends){
         if(friends[key].firstName.toLowerCase() === name || friends[key].lastName.toLowerCase() === name){
             console.log(friends[key]);
-            return friends[key];
         }
     }
 };
@@ -45,7 +44,7 @@ var displayMenu = function(){
         list(friends);
     }
     else{
-        console.log("I did not understand your request.  Please reload page and try again.");
+        console.log("I did not understand your request.  Please reload page and try agains.");
     }
 };
 
