@@ -31,9 +31,6 @@ var search = function(data){
       if(data === contacts[i].firstName.toLowerCase() || data === contacts[i].lastName.toLowerCase() || data === contacts[i].phoneNumber.toLowerCase() || data === contacts[i].email.toLowerCase()){
           printPerson(contacts[i]);
       }
-      else{
-        displayMenu();
-      };
   };
 };
 
