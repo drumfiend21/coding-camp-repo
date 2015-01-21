@@ -22,6 +22,7 @@ function list() {
   var contactsLength = contacts.length;
   for (var i = 0; i < contactsLength; i++) {
     printPerson(contacts[i]);
+    displayMenu();
   };
 };
 
@@ -30,6 +31,7 @@ var search = function(data){
   for(i=0; i < contactsLength; i++){
       if(data === contacts[i].firstName.toLowerCase() || data === contacts[i].lastName.toLowerCase() || data === contacts[i].phoneNumber.toLowerCase() || data === contacts[i].email.toLowerCase()){
           printPerson(contacts[i]);
+          displayMenu();
       }
   };
 };
@@ -51,7 +53,7 @@ var addPrompt = function(){
     var newEm = prompt("Enter email address.");
     add(newFn, newLn, newPn, newEm);
     wannaAdd === false;
-    var wannaAdd = confirm("Do you want to add a new contact to this address book?");
+    var wannaAdd = confirm("Do you want to add another contact to this address book?");
     if(wannaAdd === true){
         addPrompt();}
     else{
