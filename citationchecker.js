@@ -1,12 +1,16 @@
-//  This is citationchecker.  It checks a scientific publication (any supplied text) for the number of times your research (by your name) was cited.  //
-//  The user must have access to the console.  //
-//  To use this program, visit: http://htmlpreview.github.io/?https://github.com/drumfiend21/coding-camp-repo/blob/master/citationchecker.html  //
+//  This is citationchecker.  //
+
+//  It checks a scientific publication, in this case the text supplied below, for the number of times your research was cited, in this case by my first name "Siddharth".  Ideally, both the search term and text will be prompted for. //
+
+//  To run this sample program, visit: http://htmlpreview.github.io/?https://github.com/drumfiend21/coding-camp-repo/blob/master/citationchecker.html  //
+
+//  And open the console.  //
 
 var text = "Citations: 'Solving emotion logic paradigms,' Siddharth Joshi, Journal of Psychology. 2013; 'Rattling the cage: questions of altruism in the meat industry', Michael Baliff, Ethics. 2014; 'The unified field: unified in relation to what?' Siddharth Joshi, Journal of Physics. 2015."
 
-var confirm = confirm("Do you want to search the article on the page for number of times your research was cited?");
+var proceed = confirm("Do you want to search the article on the page for number of times your research was cited?");
 
-if(confirm === true)
+if(proceed === true)
   {
   var yourName = "Siddharth"
 
