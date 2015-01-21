@@ -45,6 +45,7 @@ var displayMenu = function(){
     }
     else{
         console.log("I did not understand your request.  Please reload page and try agains.");
+        myMenu = false;
     }
 };
 
