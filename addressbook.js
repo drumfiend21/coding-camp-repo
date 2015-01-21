@@ -30,6 +30,9 @@ var search = function(data){
   for(i=0; i < contactsLength; i++){
       if(data === contacts[i].firstName.toLowerCase() || data === contacts[i].lastName.toLowerCase() || data === contacts[i].phoneNumber.toLowerCase() || data === contacts[i].email.toLowerCase()){
           printPerson(contacts[i]);
+      }
+      else{
+        displayMenu();
       };
   };
 };
@@ -47,7 +50,7 @@ var add = function(firstName, lastName, phoneNumber, email){
 var addPrompt = function(){
     var newFn = prompt("Enter first name.");
     var newLn = prompt("Enter last name.");
-    var newPn = prompt("Enter phone number.");
+    var newPn = prompt("Enter phone number without dashes.");
     var newEm = prompt("Enter email address.");
     add(newFn, newLn, newPn, newEm);
     wannaAdd === false;
