@@ -2,8 +2,8 @@
 repo of javascript, html, and css projects.
 
 Personal Projects:
--Butler (open html)
--addressbook (open html)
+-butler
+-addressbook
 -cash register
 
 Coding Exercises:
