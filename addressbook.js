@@ -23,8 +23,6 @@ function list() {
   var contactsLength = contacts.length;
   for (var i = 0; i < contactsLength; i++) {
     printPerson(contacts[i]);
-    displayMenu();
-    
   }
 }
 
@@ -33,7 +31,6 @@ var search = function(data){
   for(i=0; i < contactsLength; i++){
       if(data === contacts[i].firstName.toLowerCase() || data === contacts[i].lastName.toLowerCase() || data === contacts[i].phoneNumber.toLowerCase() || data === contacts[i].email.toLowerCase()){
           printPerson(contacts[i]);
-          displayMenu();
       };
   };
 };
