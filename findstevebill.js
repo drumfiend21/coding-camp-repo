@@ -45,8 +45,7 @@ var displayMenu = function(){
         list(friends);
     }
     else{
-        console.log("I did not understand your request.  Please retry.");
-        displayMenu();
+        console.log("I did not understand your request.  Please reload page and try again.");
     }
 };
 
