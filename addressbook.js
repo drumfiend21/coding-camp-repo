@@ -1,5 +1,3 @@
-displayMenu();
-
 var bob = {
     firstName: "Bob",
     lastName: "Jones",
@@ -24,7 +22,7 @@ function list() {
   var contactsLength = contacts.length;
   for (var i = 0; i < contactsLength; i++) {
     printPerson(contacts[i]);
-  }
+  };
 };
 
 var search = function(data){
