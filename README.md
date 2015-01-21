@@ -6,7 +6,7 @@ Personal Projects:
 -addressbook (open html)
 -cash register
 
-Coding Exercises
+Coding Exercises:
 -citation checker
 -dragon slayer
 -findstevebill
