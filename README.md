@@ -1,5 +1,5 @@
 # coding-camp-repo
-repo of javascript, html, and css projects.
+Repo of javascript, html, and css projects.
 
 Personal Projects:
 -butler
