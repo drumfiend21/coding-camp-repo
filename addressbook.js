@@ -19,20 +19,12 @@ function printPerson(person) {
     console.log(person.firstName + " " + person.lastName + ", " + person.phoneNumber + ", " + person.email);
 }
 
-function lisp() {
+function list() {
   var contactsLength = contacts.length;
   for (var i = 0; i < contactsLength; i++) {
     printPerson(contacts[i]);
     displayMenu();
     
-  }
-}
-
-function list() {
-  var contactsLength = contacts.length;
-  for (var i = 0; i < contactsLength; i++) {
-    return contacts;
-    displayMenu();
   }
 }
 
