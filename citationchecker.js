@@ -4,7 +4,7 @@
 
 //  To run this sample program, visit: http://htmlpreview.github.io/?https://github.com/drumfiend21/coding-camp-repo/blob/master/citationchecker.html  //
 
-//  And open the console.  //
+//  And open the console to view results.  //
 
 var text = "Citations: 'Solving emotion logic paradigms,' Siddharth Joshi, Journal of Psychology. 2013; 'Rattling the cage: questions of altruism in the meat industry', Michael Baliff, Ethics. 2014; 'The unified field: unified in relation to what?' Siddharth Joshi, Journal of Physics. 2015."
 

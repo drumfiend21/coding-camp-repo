@@ -4,7 +4,7 @@
 
 //  To use this program, visit: http://htmlpreview.github.io/?https://github.com/drumfiend21/coding-camp-repo/blob/master/butler.html //
 
-//  And open the console. //
+//  And open the console to view results. //
 
 
 var energy = prompt("We'll use our complex matching system to pick a tie for you today. What energy do you want to portray? (Enter: '1' for power bold, '2' for conservative', or '3' for mute sophisticated)");
