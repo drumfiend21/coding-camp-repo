@@ -1,3 +1,4 @@
+displayMenu();
 
 var bob = {
     firstName: "Bob",
@@ -17,14 +18,14 @@ var contacts = [bob, mary];
 
 function printPerson(person) {
     console.log(person.firstName + " " + person.lastName + ", " + person.phoneNumber + ", " + person.email);
-}
+};
 
 function list() {
   var contactsLength = contacts.length;
   for (var i = 0; i < contactsLength; i++) {
     printPerson(contacts[i]);
   }
-}
+};
 
 var search = function(data){
   var contactsLength = contacts.length;
@@ -58,12 +59,12 @@ var addPrompt = function(){
     else{
         displayMenu();
     }
-}
+};
 
 var searchPrompt = function(){
         var searchName = prompt("Enter a first name, last name, phone without dashes, or email address.");
         search(searchName.toLowerCase());
-    }
+    };
 
 var displayMenu = function(){
     var myMenu = prompt("1 - Add contact, 2 - Search contacts, 3 - List all contacts");
