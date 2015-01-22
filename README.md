@@ -9,6 +9,4 @@ Coding Projects:
 -findstevebill
 -wannagetenlightened
 
-Personal Projects:
-
-Shhh! :)
+Personal Projects: Shhh!
