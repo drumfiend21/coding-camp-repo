@@ -1,5 +1,5 @@
 # coding-camp-repo
-Repo of javascript, html, and css projects.
+Repo of javascript projects.
 
 Coding Projects:
 -addressbook
