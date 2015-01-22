@@ -1,13 +1,14 @@
 # coding-camp-repo
 Repo of javascript, html, and css projects.
 
-Personal Projects:
--butler
+Coding Projects:
 -addressbook
 -cash register
-
-Coding Exercises:
 -citation checker
 -dragon slayer
 -findstevebill
 -wannagetenlightened
+
+Personal Projects:
+
+Shhh! :)
