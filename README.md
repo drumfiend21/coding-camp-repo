@@ -1,7 +1,9 @@
 # coding-camp-repo
-Repo of javascript projects.
+Repo of practice javascript, HTML and CSS projects.
 
-Coding Projects:
+Formal web dev work and portfolio: www.jungleej.wordpress.com
+
+Practice javascript projects:
 -addressbook
 -cash register
 -citation checker
@@ -9,6 +11,10 @@ Coding Projects:
 -findstevebill
 -wannagetenlightened
 
-Personal Projects: Shhh!
+Practice HTML and CSS
+-portfoliowebsite-index.html
+-portfoliowebsite-about.html
+-portfoliowebsite-main.css
+-portfoliowebsite-normalize.css
 
-Websites and other works: www.jungleej.wordpress.com
+Personal projects: not listed.
