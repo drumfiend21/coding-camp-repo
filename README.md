@@ -4,18 +4,18 @@
 <i>For formal web dev work and portfolio: www.jungleej.wordpress.com </i>
 
 <ins>Practice javascript projects</ins>
-<p>-addressbook
--cash register
--citation checker
--dragon slayer
--findstevebill
--wannagetenlightened</p>
+<p>-addressbook</p>
+<p>-cash register</p>
+<p>-citation checker</p>
+<p>-dragon slayer</p>
+<p>-findstevebill</p>
+<p>-wannagetenlightened</p>
 
 <ins>Practice HTML and CSS</ins>
-<p>-portfoliowebsite-index.html
--portfoliowebsite-about.html
--portfoliowebsite-main.css
--portfoliowebsite-normalize.css</p>
+<p>-portfoliowebsite-index.html</p>
+<p>-portfoliowebsite-about.html</p>
+<p>-portfoliowebsite-main.css</p>
+<p>-portfoliowebsite-normalize.css</p>
 
 <ins>Personal projects</ins> 
 <p>Not listed.</p>
