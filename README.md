@@ -1,5 +1,5 @@
 # coding-camp-repo
-Repo of practice javascript, HTML and CSS projects.
+<strong> Repo of practice javascript, HTML and CSS projects. </strong>
 
 Formal web dev work and portfolio: www.jungleej.wordpress.com
 
