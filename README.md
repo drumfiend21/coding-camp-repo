@@ -3,7 +3,7 @@
 
 <i>For formal web dev work and portfolio: www.jungleej.wordpress.com </i>
 
-<ins>Practice javascript projects</ins>
+<p><ins>Practice javascript projects</ins></p>
 <p>-addressbook</p>
 <p>-cash register</p>
 <p>-citation checker</p>
@@ -11,11 +11,11 @@
 <p>-findstevebill</p>
 <p>-wannagetenlightened</p>
 
-<ins>Practice HTML and CSS</ins>
+<p><ins>Practice HTML and CSS</ins></p>
 <p>-portfoliowebsite-index.html</p>
 <p>-portfoliowebsite-about.html</p>
 <p>-portfoliowebsite-main.css</p>
 <p>-portfoliowebsite-normalize.css</p>
 
-<ins>Personal projects</ins> 
+<p><ins>Personal projects</ins></p> 
 <p>Not listed.</p>
