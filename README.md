@@ -3,18 +3,19 @@
 
 <i>For formal web dev work and portfolio: www.jungleej.wordpress.com </i>
 
-Practice javascript projects:
--addressbook
+<ins>Practice javascript projects</ins>
+<p>-addressbook
 -cash register
 -citation checker
 -dragon slayer
 -findstevebill
--wannagetenlightened
+-wannagetenlightened</p>
 
-Practice HTML and CSS
--portfoliowebsite-index.html
+<ins>Practice HTML and CSS</ins>
+<p>-portfoliowebsite-index.html
 -portfoliowebsite-about.html
 -portfoliowebsite-main.css
--portfoliowebsite-normalize.css
+-portfoliowebsite-normalize.css</p>
 
-Personal projects: not listed.
+<ins>Personal projects</ins> 
+<p>Not listed.</p>
