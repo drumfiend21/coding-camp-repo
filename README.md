@@ -2,20 +2,20 @@
 <strong> Repo of Javascript, HTML and CSS practice projects. </strong>
 
 <i>For formal web dev work and portfolio: www.jungleej.wordpress.com </i>
-
+ 
 <p><ins>Practice javascript projects</ins></p>
-<p>-addressbook</p>
-<p>-cash register</p>
-<p>-citation checker</p>
-<p>-dragon slayer</p>
-<p>-findstevebill</p>
-<p>-wannagetenlightened</p>
-
+<ul>
+<li>addressbook</li>
+<li>cash register</li>
+<li>citation checker</li>
+<li>dragon slayer</li>
+<li>findstevebill</li>
+<li>wannagetenlightened</li>
+</ul>
+ 
+<ul>
 <p><ins>Practice HTML and CSS</ins></p>
-<p>-portfoliowebsite-index.html</p>
-<p>-portfoliowebsite-about.html</p>
-<p>-portfoliowebsite-main.css</p>
-<p>-portfoliowebsite-normalize.css</p>
-
+<li>Single Page Site (Original)</li>
+ 
 <p><ins>Personal projects</ins></p> 
 <p>Not listed.</p>
