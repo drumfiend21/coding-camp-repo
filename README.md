@@ -13,9 +13,10 @@
 <li>wannagetenlightened</li>
 </ul>
  
-<ul>
 <p><ins>Practice HTML and CSS</ins></p>
+<ul>
 <li>Single Page Site (Original)</li>
- 
+</ul>
+
 <p><ins>Personal projects</ins></p> 
 <p>Not listed.</p>
