@@ -1,8 +1,9 @@
 # coding-camp-repo
 <strong> Repo of Javascript, HTML and CSS practice projects. </strong>
 
-<i>For formal web dev work and portfolio: www.jungleej.wordpress.com </i>
-<i>LinkedIn: www.linkedin.com/in/siddharthjoshiresearch </i>
+<p><i>For formal web dev work and portfolio: www.jungleej.wordpress.com </i></p>
+<p><i>LinkedIn: www.linkedin.com/in/siddharthjoshiresearch </i></p>
+ 
  
 <p><ins>Practice javascript projects</ins></p>
 <ul>
