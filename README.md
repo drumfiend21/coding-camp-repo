@@ -2,6 +2,7 @@
 <strong> Repo of Javascript, HTML and CSS practice projects. </strong>
 
 <i>For formal web dev work and portfolio: www.jungleej.wordpress.com </i>
+<i>LinkedIn: www.linkedin.com/in/siddharthjoshiresearch </i>
  
 <p><ins>Practice javascript projects</ins></p>
 <ul>
